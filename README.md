@@ -37,7 +37,7 @@
     <p>En esta p&aacute;gina web, podr&aacute;s encontrar y adquirir ***** de ********** estilos, t&eacute;cnicas y tem&aacute;ticas creadas por artistas ********** de Chile y del mundo. Podr&aacute;s ********* desde grafitis y murales hasta stickers y stencils, todos elaborados a **** con ********** de calidad y firmados por sus creadores. Adem&aacute;s, podr&aacute;s conocer m&aacute;s sobre *** artistas que *** realizaron, sus historias, inspiraciones y proyectos.</p>
     <p>&copy; 2023 Galer&iacute;a de Arte Callejero</p>
 
-<div style="color: red;">Prueba Word to HTML - <a href="https://wordtohtml.net/site/payment">P&aacute;sate a PRO</a>.</div>
+<div>
 </body>
 
 </html>
